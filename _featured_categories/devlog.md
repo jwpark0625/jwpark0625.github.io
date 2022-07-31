@@ -6,5 +6,5 @@ slug: devlog
 sidebar: true
 order: 2
 description: >
-  Anything about Development
+  개발에 관한 기록들
 ---
