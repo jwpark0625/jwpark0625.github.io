@@ -39,8 +39,8 @@ _참조해서 습득한다(motto)_
 ## 본문 테스트4
 
 페이지 링크 걸어보기<br>
-[Main Page]로 <br>
-[Home Page]로
+[메인 페이지]로 <br>
+[홈페이지]로
 
 
 ***
@@ -60,5 +60,5 @@ referenced in [Lazy Ren].
 [resume]: /resume/
 [Hydejack]: https://hydejack.com
 [Lazy Ren]: https://lazyren.github.io/
-[Main Page] : https://jwpark0625.github.io/
-[Home Page] : https://www.google.com/
+[Main Page]: https://jwpark0625.github.io/
+[Home Page]: https://www.google.com/
