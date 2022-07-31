@@ -57,8 +57,8 @@ referenced in [Lazy Ren].
 [Winitech]: https://www.winitech.com/
 [Kyungbook National University]: https://www.knu.ac.kr/
 [Gamer]: https://steamcommunity.com/id/ropin5763
-[resume]: /resume/
+[resume]: /resume
 [Hydejack]: https://hydejack.com
 [Lazy Ren]: https://lazyren.github.io/
-[Main Page]: https://jwpark0625.github.io/
-[Home Page]: https://www.google.com/
+[메인 페이지]: https://jwpark0625.github.io/
+[홈페이지]: https://www.google.com/
