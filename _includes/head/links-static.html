@@ -26,7 +26,15 @@
   <noscript><link rel="stylesheet" href="{{ katex_url }}"></noscript>
 {% endif %}
 
-{% assign disqus = site.disqus | default:site.disqus_shortname %}
-{% if disqus %}
-<link rel="dns-prefetch" href="https://{{ disqus }}.disqus.com" id="_hrefDisqus">
+{% if site.comments.provider == "disqus" and site.disqus %}
+  <link rel="dns-prefetch" href="https://{{ disqus }}.disqus.com" id="_hrefDisqus">
 {% endif %}
+
+{% if page.applause_button %}
+  <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
+  <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+{% endif %}
+
+<!-- For sidebar folder -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<script src="/assets/js/sidebar-folder.js"></script>
