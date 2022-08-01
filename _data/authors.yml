@@ -20,7 +20,7 @@ author1:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:             /assets/img/me_128.jpg #128*128
-      2x:             /assets/img/me_240.jpg 
+      2x:             /assets/img/me_256.jpg #256*256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
