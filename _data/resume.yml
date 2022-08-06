@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Jongwon Park"
-  label: "Backend Developer"
+  label: "Full-Stack Engineer"
   picture: /assets/img/me.jpg
   email: "jwp0625@naver.com"
   phone: "-"
@@ -23,7 +23,7 @@ basics:
       url: "https://github.com/jwpark0625"
     - network: "LinkedIn"
       username: "Jongwon Park"
-      url: ""
+      url: "https://www.linkedin.com/in/jongwon-park-3916a7233/"
 work:
   - company: "Winitech"
     position: "Employee"
