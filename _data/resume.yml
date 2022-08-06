@@ -50,7 +50,7 @@ education:
     studyType: "Bachelor"
     startDate: "2014-03-01"
     endDate: "2022-02-14"
-    gpa: "2.98"
+    #gpa: "2.98"
     courses:
       - "AERO0220 - 위성영상정보처리"
       - "AERO0242 / AERO0247 - 위성정보공학과제"
@@ -59,7 +59,7 @@ education:
     studyType: "Bachelor"
     startDate: "2018-03-01"
     endDate: "2022-02-14"
-    gpa: "2.98"
+    #gpa: "2.98"
     courses:
       - "COMP0319 - 알고리즘"
       - "ITEC0419 - 데이터과학기초"
