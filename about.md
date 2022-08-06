@@ -39,15 +39,15 @@ _참조해서 습득한다(motto)_
 ## 본문 테스트4
 
 페이지 링크 걸어보기<br>
-[메인 페이지]로 <br>
-[홈페이지]로
+**[메인 페이지]**로 <br>
+**[홈페이지]**로
 
 
 ***
 
 Blog created by JW on July 31. 2022 <br>
-based on the jekyll theme [Hydejack]. <br>
-referenced in [Lazy Ren].
+based on the jekyll theme **[Hydejack]**. <br>
+referenced in **[Lazy Ren]**.
 
 ***
 
