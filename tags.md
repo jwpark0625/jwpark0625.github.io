@@ -3,7 +3,7 @@ layout: tags
 title: Tags
 permalink: /tags/
 sidebar: true
-order: 4
+order: 6
 description: >
-  List of all categories & tags of blog.
+  블로그 내 모든 카테고리와 태그 리스트
 ---
